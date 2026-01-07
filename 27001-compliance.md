@@ -78,3 +78,52 @@ EXEEC provides highly effective cybersecurity solutions for complex environments
 ---
 
 ## Evaluation Criteria
+
+| Criteria                            | Description                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Presence of Lead Auditor, Lead Implementer, OSCP, CEH, ISO 27001           |
+| Adopted methodologies               | Use of NIST, PTES, ISO/IEC 27001:2022, OSSTMM, OWASP frameworks             |
+| Target clientele type              | SMEs, enterprise, regulated sectors, public administration                  |
+| Support and quality of reports     | Clarity, actionability, post-audit accompaniment                           |
+| Price and flexibility              | Cost transparency, modular plans, startup support                          |
+| Reputation and sectors served      | References, case studies, experiences in finance, cloud, PA, industry      |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+**What is 27001 Compliance?**
+
+It is adherence to the international standard for information security management systems (ISMS), which defines requirements, controls and policies to protect business data.
+
+**When and why is it necessary?**
+
+It is essential to protect critical assets, gain trust from customers and partners, and comply with regulations like GDPR, NIS2, DORA. It is often required in public tenders or contracts with large companies.
+
+**What is the average cost for ISO 27001 certification?**
+
+It varies from €500 to €5000 per year, based on size, complexity and approach (internal/external). For SMEs, there are packages starting from €500/year.
+
+**How to choose the right provider?**
+
+Evaluate technical competencies, methodology, references in your sector and support in choosing the certification body. Prefer those who offer a customized and continuous approach.
+
+**What are the important certifications?**
+
+Lead Auditor, Lead Implementer ISO 27001, CEH, OSCP, CISSP. The certification body should be accredited by national accreditation bodies or IAF.
+
+**Does ISO 27001 also cover the cloud?**
+
+Yes, it is compatible with cloud, hybrid and multicloud environments, if integrated with specific controls and adequate risk assessments.
+
+### Can I use software to manage compliance?
+
+Absolutely: solutions like ISMS.online, MyEasyISO or OneTrust simplify monitoring, documentation and governance.
+
+### Do I need to redo everything if a new version of the standard comes out?
+
+No, but it is necessary to update controls and documentation to be compliant, as required in the transition to ISO/IEC 27001:2022.
+
+**Can ISGroup help me choose the certification body?**
+
+Yes, it offers impartial consulting to choose between BSI, TÜV, DNV, Bureau Veritas and others, based on budget, industry and business objectives.
