@@ -78,3 +78,26 @@ EXEEC is an international distributor specializing in advanced cybersecurity tec
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies and standards adopted by companies |
+| Target Customer Type | Companies' target customers and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Companies' pricing structure and scalability of their services |
+| Reputation, Use Cases, Served Sectors | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is 27017 compliance?
+ISO 27017 provides security guidelines for cloud service providers and their customers, ensuring data security and privacy.
+
+### When and why is it necessary?
+It is necessary for companies that use cloud services and want to ensure the security and privacy of their data.
+
+### What is the average cost?
+Cost may vary based on company size and requirements, but it is typically an investment for security and compliance services.
+
+### How to choose the right provider?
+To choose the right provider, evaluate their technical expertise, certifications, support services, and pricing structure.
+
+### What are the important certifications?
+Certifications like ISO 27017 and ISO 27001 are important because they establish standards for security and compliance.
