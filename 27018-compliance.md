@@ -78,3 +78,55 @@ EXEEC provides expert solutions for complex environments. This company is ideal 
 
 ## Evaluation Criteria
 
+| Criterion                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technical competencies**        | ISO certifications, cloud security experience, certified team          |
+| **Methodologies**                | Gap analysis, audit, access control, data classification                 |
+| **Target clientele**           | SMEs, enterprise, PA, regulated environments                                 |
+| **Support and reporting**          | Documentation quality, remediation, continuous support                |
+| **Flexibility and pricing**      | Customized services, scalability, modularity                             |
+| **Reputation**                | Case studies, testimonials, certifications obtained                         |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is 27018 Compliance?
+
+ISO/IEC 27018 is an international standard for protecting personal data (PII) in cloud services. It specifies technical, contractual, and organizational controls that providers must adopt to ensure privacy and security.
+
+### When and why is it necessary?
+
+It is essential for those managing personal data in the cloud, especially in regulated sectors or with European clients. It allows demonstrating accountability and adherence to GDPR.
+
+### What is the average cost?
+
+It depends on the level of customization, the complexity of the cloud environment, and the current state of documentation. SMEs can start from a few thousand euros, large companies from tens of thousands.
+
+### How do you choose the right supplier?
+
+Evaluate experience, certifications, post-audit support, and the ability to adapt to your specific needs. The checklist in this guide helps you compare alternatives in a structured way.
+
+### What are the important certifications?
+
+ISO/IEC 27001 (prerequisite), ISO/IEC 27018, SOC 2, GDPR readiness. Also pay attention to cloud provider compliance (e.g., AWS, Azure, GCP).
+
+### Who is responsible for compliance in the cloud?
+
+According to the shared responsibility model, both the customer and the provider have specific roles. ISO 27018 helps define these boundaries and document each activity.
+
+### Is it also needed for SaaS?
+
+Yes, especially for software that processes sensitive user or customer data. It is a competitive advantage with end customers and in public tenders.
+
+### Is the cloud provider's certification sufficient?
+
+No. The responsibility also remains with the data controller (you). You must verify policies, controls, and security practices throughout the data lifecycle.
+
+### Can I get certified even if I use multiple cloud providers?
+
+Yes. Some companies offer multi-cloud solutions and tools to manage ISO 27018 compliance even in complex and distributed environments.
+
+### Are there automatic tools for compliance?
+
+Yes. Some providers offer tools for data classification, log analysis, policy check, and audit trail. However, human guidance remains essential for real compliance.
