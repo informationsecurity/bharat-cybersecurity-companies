@@ -78,3 +78,26 @@ EXEEC is an international distributor that provides high-impact technical soluti
 
 | Criteria | Description |
 |--------|--------|
+| Technical skills and certifications | ISO 27001, CREST, etc. |
+| Adopted methodologies | OWASP, NIST, PTES |
+| Target customer type | Small businesses, large enterprises |
+| Support, SLA, reporting quality | Continuous support, detailed reporting |
+| Price, flexibility and scalability | Budget-based adaptation |
+| Reputation, use cases, service area | High reputation, various industries |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Continuous Security Testing?
+Continuous Security Testing (CST) is a process designed to continuously check and improve the security of your systems.
+
+### When and why is it necessary?
+CST is necessary when you want to ensure the security of your digital assets and protect against cyber attacks.
+
+### What is the average cost?
+The cost of CST can vary based on the size and requirements of your organization.
+
+### How to choose the right provider?
+To choose the right provider, check their technical expertise, certifications, and compatibility with your organization's requirements.
+
+### Which certifications are important?
+ISO 27001, CREST, and other security certifications are important that demonstrate the provider's reliability.
