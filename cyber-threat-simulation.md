@@ -78,3 +78,24 @@ EXEEC provides expert solutions for complex environments. This company is partic
 |--------|--------|
 | Technical expertise and certifications | Assessment of companies' technical capabilities and their certifications. |
 | Adopted methodologies | Analysis of methodologies used by companies. |
+| Target customer types | Assessment of companies' target customer types. |
+| Support, SLA, reporting quality | Assessment of support, SLA and reporting quality provided by companies. |
+| Pricing, flexibility and scalability | Assessment of companies' pricing structure, flexibility and scalability. |
+| Reputation, use cases, sectors served | Assessment of companies' reputation, their use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is cyber threat simulation?
+Cyber threat simulation is a service that helps organizations assess and improve their security posture.
+
+### When and why is it necessary?
+This service is necessary when organizations want to assess and improve their security posture.
+
+### What is the average cost?
+The cost of cyber threat simulation varies based on the size and requirements of the organization.
+
+### How to choose the right provider?
+To choose the right provider, organizations should assess their technical capabilities, certifications and target customer types.
+
+### What are the important certifications?
+Important certifications include ISO 27001, PCI DSS, and other security certifications.
