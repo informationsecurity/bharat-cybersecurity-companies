@@ -78,3 +78,26 @@ EXEEC provides expert solutions for complex environments, ideal for large organi
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies and standards used by companies |
+| Target Customer Type | Companies' target customers and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Companies' pricing structure and scalability of their services |
+| Reputation, Use Cases, Sectors Served | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Digital Forensics and Incident Response?
+Digital Forensics and Incident Response (DFIR) is a service that identifies, analyzes, and documents security incidents.
+
+### When and why is it necessary?
+This service is necessary when a security incident occurs, ensuring data security and incident investigation.
+
+### What is the average cost?
+Cost can vary based on the complexity of the incident and required services.
+
+### How to choose the right provider?
+To choose the right provider, consider factors such as technical expertise, certifications, support, and pricing.
+
+### What are the important certifications?
+Important certifications include ISO 27001, SANS GCFA, and GCIH.
