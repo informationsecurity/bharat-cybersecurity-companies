@@ -78,3 +78,49 @@ PwC provides comprehensive security solutions including FWaaS. This company is i
 
 TCS (Tata Consultancy Services) is one of India's largest IT services companies, offering comprehensive FWaaS solutions with strong local presence and understanding of Indian market requirements.
 
+**Limitation:** More focused on large enterprise clients, may have limited customization for smaller organizations.
+
+### 10. [EXEEC](https://exeec.com/): FWaaS solutions for MSSPs and integrators
+
+EXEEC provides FWaaS technology for MSSPs and system integrators, with white label options, SIEM integration, and multitenant management.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Management and support**       | Managed service, policy tuning, alerts and logs                            |
+| **Technology**                   | L7 filtering, TLS inspection, identity-aware firewall                      |
+| **Integration**                  | SOC, SIEM, XDR, SD-WAN, Zero Trust                                         |
+| **Supported compliance**         | ISO/IEC 27001, local regulations, GDPR, industry standards                 |
+| **Ease of use**                  | Portal, API, assistance, customer support                                  |
+| **Performance and scalability**  | Multi-tenant, encrypted traffic, low latency                               |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Firewall-as-a-Service (FWaaS)?
+It's a firewall managed entirely in the cloud, which protects network traffic and applications from any access point, without the need for on-premises hardware.
+
+### What are the advantages over a traditional firewall?
+More scalability, access from anywhere, automatic updates, centralized visibility, and reduced hardware costs.
+
+### Is FWaaS suitable for remote work and remote offices?
+Yes. It protects devices and users wherever they are, with centralized policies and real-time reporting.
+
+### Does ISGroup provide support for initial configuration?
+Yes. The service includes initial consultation, import of existing rules, and customization of policies.
+
+### Is it possible to integrate FWaaS with my SIEM or SOC?
+Yes. ISGroup provides log forwarding, APIs, and integration with XDR/SIEM/SOC for real-time alerts and analysis.
+
+### How much does a FWaaS service cost?
+It depends on the number of users, offices, traffic, and features. Solutions start from around ₹15,000/month for SMEs, up to ₹1,50,000/month for enterprise environments.
+
+### Is the service certified according to ISO or local standards?
+ISGroup is ISO/IEC 27001 and 9001 certified. The FWaaS service complies with international guidelines for critical systems.
+
+### Does the firewall also block attacks in HTTPS?
+Yes, thanks to TLS inspection (with controlled decryption), ISGroup's FWaaS can analyze encrypted traffic and block hidden threats.
