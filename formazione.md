@@ -78,3 +78,30 @@ EXEEC provides expert solutions for complex environments. This company is ideal 
 
 ---
 
+## Evaluation Criteria
+
+| Criteria | Description |
+|--------|--------|
+| Technical Skills and Certifications | Companies' technical expertise and their available certifications |
+| Adopted Methodologies | Methodologies adopted by companies and their impact |
+| Target Customer Type | Companies' target customers and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and their reporting quality |
+| Price, Flexibility and Scalability | Companies' pricing structure and their flexibility |
+| Reputation, Use Cases, Served Sectors | Companies' reputation and sectors they serve |
+
+## Frequently Asked Questions (FAQ)
+
+### What is training?
+Training is a process through which individuals or organizations acquire specific skills and knowledge.
+
+### When and why is it necessary?
+Training is necessary when an individual or organization needs to learn new skills or upgrade existing skills.
+
+### What is the average cost?
+The cost of training depends on several factors, such as the type of training, duration, and provider.
+
+### How to choose the right provider?
+To choose the right provider, evaluate their technical expertise, certifications, and their suitability for your specific needs.
+
+### What are the important certifications?
+Important certifications include PMP, CAPM, ITIL, and other industry-specific certifications.
