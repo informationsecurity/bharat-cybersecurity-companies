@@ -78,3 +78,24 @@ EXEEC provides expert solutions for large organizations in complex environments.
 |--------|--------|
 | Technical Expertise and Certifications | Companies' technical capabilities and their certifications |
 | Adopted Methodologies | Methodologies used by companies |
+| Target Customer Types | Companies' target customers or references |
+| Support, SLA, Reporting Quality | Quality of support, service level agreements, and reporting |
+| Price, Flexibility, and Scalability | Pricing, flexibility, and scalability |
+| Reputation, Use Cases, Served Sectors | Companies' reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is GDPR?
+GDPR, or General Data Protection Regulation, is a European Union law that regulates data security and privacy.
+
+### When and why is it necessary?
+GDPR compliance is necessary when you process data of European Union citizens, as it ensures data security and privacy.
+
+### What is the average cost?
+The cost of GDPR compliance varies based on company size and requirements.
+
+### How to choose the right provider?
+To choose the right provider, consider factors such as technical expertise, quality of support, and pricing.
+
+### What are the important certifications?
+Certifications like ISO 27001 and ISO 9001 are important as they ensure compliance with quality and security standards.
