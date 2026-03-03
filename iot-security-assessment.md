@@ -78,3 +78,26 @@ EXEEC provides expert solutions for complex environments. This company is ideal 
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Technical capabilities of companies and their certifications |
+| Adopted Methodologies | Methodologies and standards used by companies |
+| Target Customer Type | Target customers of companies and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Price, Flexibility and Scalability | Pricing structure of companies and their flexibility |
+| Reputation, Use Cases, Served Sectors | Reputation of companies and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is IoT Security Assessment?
+IoT security assessment is a process that evaluates the security of IoT devices and networks, identifying potential vulnerabilities.
+
+### When and why is it necessary?
+It is necessary when you have a large network of IoT devices and want to ensure their security. It is important for protection against cyber attacks.
+
+### What is the average cost?
+The average cost depends on several factors, such as the size of the network and the complexity of the assessment.
+
+### How to choose the right provider?
+To choose the right provider, check their technical expertise, certifications, and the quality of services they provide.
+
+### What are the important certifications?
+Important certifications include ISO 27001, CEH, and CISSP, which certify the provider's security capabilities.
