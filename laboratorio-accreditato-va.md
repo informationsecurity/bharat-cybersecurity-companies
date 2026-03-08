@@ -78,3 +78,40 @@ Solution for those who deliver VA to end customers: tools, documentation, suppor
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Accreditations**             | ISO/IEC 27001, ISO 9001, ACCREDIA, ACN compliance                            |
+| **Method Used**               | Manual, automatic, hybrid                                                  |
+| **Team**                       | OSCP, CEH, CISA, CISSP certified                                           |
+| **Report Validity**        | Auditable, referenced, ACN/NIS2 compliant                                  |
+| **Coverage Areas**             | Cloud, network, web, OT, IoT, DevOps, SaaS                                      |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Vulnerability Assessment?
+A systematic analysis of vulnerabilities present in a network, system, app or IT infrastructure, with the objective of mitigating them.
+
+### What's the difference with a Penetration Test?
+VA identifies vulnerabilities. PT exploits them to simulate an attack. ISGroup offers both.
+
+### Do you need an accredited laboratory to perform VA?
+Not always, but for public tenders, PA, ACN and NIS2 it is preferable (or required) to turn to certified suppliers.
+
+### Is ISGroup an accredited laboratory?
+ISGroup is ISO/IEC 27001 and ISO 9001 certified, with traceable processes and auditable VA methodology.
+
+### How much does a Vulnerability Assessment cost?
+Depends on target, scope and depth. From ₹1,50,000 for limited tests to over ₹7,50,000 for multi-cloud or regulated environments.
+
+### How long does it take?
+From 1 to 4 weeks based on environment size.
+
+### Is the report valid for ISO or ACN audits?
+Yes. The ISGroup report includes technical detail, executive summary, priorities, remediation and risk metrics.
+
+### Should VA be repeated every year?
+Yes, or with every significant infrastructure change. ISGroup offers recurring VA with flexible pricing.
