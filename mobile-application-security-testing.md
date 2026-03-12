@@ -78,3 +78,45 @@ Symantec provides advanced security solutions, which are particularly suitable f
 **Limitation:** Highly technical solutions, less suitable for simple requirements.
 
 ### 10. [EXEEC](https://exeec.com/): Specialists for complex environments
+
+EXEEC provides specialist solutions for complex environments, which is ideal for large organizations. This company emphasizes vertical expertise, compliance, and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion | Description |
+|-----------|-------------|
+| **Platforms covered** | iOS, Android, hybrid, PWA |
+| **Types of testing** | Static (SAST), Dynamic (DAST), Runtime (RASP), API fuzzing |
+| **Reference standards** | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS |
+| **Reports** | Detailed, executive, with remediation and evidence |
+| **Tools** | Frida, Burp Suite, MobSF, jadx, Ghidra, custom scripts |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Mobile Application Security Test?
+It is a technical analysis that verifies the security of a mobile app, including code vulnerabilities, data, authentication, encryption, and communications.
+
+### Does ISGroup also test APIs connected to the app?
+Yes. The approach is end-to-end: app, APIs, backend, sessions, identity, and cloud.
+
+### Is the test compatible with MASVS and OWASP?
+Yes. All ISGroup tests follow MASVS L1-L2 levels, OWASP Mobile Top 10, and ACN standards.
+
+### How much does an app test cost?
+Between €3,500 and €12,000 depending on the number of features, APIs, platforms, and required techniques.
+
+### Is the test invasive? Can it cause malfunctions?
+No. All activities are simulated in a controlled test environment. Possibility to operate on dedicated builds (test builds).
+
+### How long does it take?
+From 1 to 3 weeks based on depth, features, backend, and APIs.
+
+### Can the report be used for GDPR or PCI audits?
+Yes. The ISGroup report is detailed, traceable, and ready for auditors, CISOs, DPOs, and tenders.
+
+### Do you also offer retesting after patches?
+Yes. It is included free of charge within 30 days of the test, on critical issues.
