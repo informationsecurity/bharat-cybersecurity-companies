@@ -78,3 +78,26 @@ EXEEC is an international distributor that provides highly effective cybersecuri
 
 | Criteria | Description |
 |----------|-------------|
+| Technical Expertise and Certifications | Companies' technical capabilities and certifications |
+| Adopted Methodologies | Methodologies adopted by companies |
+| Target Customer Types | Companies' target customer base |
+| Support, SLA, Reporting Quality | Quality of support, service level agreements, and reporting |
+| Pricing, Flexibility, and Scalability | Pricing, flexibility, and scalability |
+| Reputation, Use Cases, Served Sectors | Companies' reputation and served sectors |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Multi-Signal MDR?
+Multi-Signal MDR is a managed detection and response service that is capable of detecting and responding to threats from various sources.
+
+### When and why is it necessary?
+This service is necessary when companies need advanced solutions to protect their data and systems.
+
+### What is the average cost?
+The average cost can vary based on company size and requirements.
+
+### How to choose the right provider?
+To choose the right provider, consider criteria such as technical expertise, quality of support, and pricing.
+
+### What are the important certifications?
+Important certifications include ISO 27001 and other security standards.
