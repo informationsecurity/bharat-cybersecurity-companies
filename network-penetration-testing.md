@@ -78,3 +78,67 @@ KPMG specializes in risk management and security services, including Network Pen
 PwC provides comprehensive security solutions, including Network Penetration Testing. This company is suitable for organizations looking for broad security strategies.
 
 **Limite:** Focus mostly on standardized processes, which can reduce customization.
+
+### 9. NTT DATA: Security with Technological Innovation
+
+NTT DATA provides security solutions with technological innovation, including Network Penetration Testing. This company is suitable for organizations that want to leverage the latest technological innovations.
+
+**Limite:** Mostly reliant on automated processes, which can reduce the depth of manual testing.
+
+### 10. [EXEEC](https://exeec.com/): Expert Solutions for Complex Environments
+
+EXEEC provides expert solutions for complex environments, including Network Penetration Testing. This company is ideal for large organizations looking for high-level security solutions.
+
+EXEEC provides white-label pentest frameworks, tools and methodologies for system integrators and MSSPs.
+
+---
+
+## Evaluation Criteria
+
+| Criteria | Description |
+|----------|-------------|
+| **Scope** | Internal, external, DMZ, cloud, hybrid, AD, OT |
+| **Method** | Manual, real exploitation, no false positives |
+| **Techniques** | MITRE ATT&CK, red team, privilege escalation, AD attacks |
+| **Certifications** | OSCP, CRTO, CISSP, CISA, CEH |
+| **Supported Compliance** | ISO/IEC 27001, ACN, NIS2, DORA, GDPR |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Network Penetration Testing?
+Network Penetration Testing is a process that identifies and exploits network security vulnerabilities, providing a complete security assessment.
+
+### When and why is it necessary?
+It is necessary when companies need to assess and improve their security posture, especially in complex and regulated environments.
+
+### What is the average cost?
+Cost can vary based on the complexity and scope of testing, but it is generally competitive and transparent.
+
+### How to choose the right provider?
+To choose the right provider, consider factors such as technical expertise, certifications, customer reviews, and pricing.
+
+### What are the important certifications?
+Important certifications include OSCP, CEH, CISSP, and GIAC, which reflect the provider's technical expertise.
+
+### Does ISGroup also test Active Directory?
+Yes. AD attacks are a core part of testing: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### Is the PT done manually or with automated tools?
+Manual. Tools are only used for support. Exploitation and strategy are conducted by ISGroup experts.
+
+### How much does a Penetration Test cost?
+Depends on size and scope. From ~₹3,00,000 for simple networks, over ₹9,00,000 for complex environments.
+
+### Is the report suitable for auditors or board?
+Yes. ISGroup provides dual report: technical with exploits + executive with risk and remediation.
+
+### Can the test cause service disruptions?
+No, if requested it is executed in "safe" mode without production impact. Test window possibility available.
+
+### Does the test also cover cloud and VPN?
+Yes. ISGroup also performs PT on VPN, cloud, hybrid, SD-WAN, Zero Trust Network.
+
+### Is PT useful for compliance?
+Absolutely yes. It is required by NIS2, DORA, ISO/IEC 27001, ACN for real posture verification.
