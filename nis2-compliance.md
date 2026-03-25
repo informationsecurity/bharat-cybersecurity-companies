@@ -78,3 +78,57 @@ PwC provides global compliance and consulting services, which are ideal for larg
 
 ### 9. TCS: Technology Services and Digital Solutions
 
+TCS provides technology services and digital solutions for NIS2 compliance, focusing on innovation and scalability for large enterprises.
+
+**Target customers:** Large organizations looking for comprehensive technology solutions.
+
+**Limit:** More focus on large-scale technology implementations, which may be less suitable for small businesses.
+
+### 10. [EXEEC](https://exeec.com/): Advanced Solutions for Complex Environments
+
+EXEEC provides advanced solutions for complex environments, which is ideal for large organizations. Its expertise and continuous support make it a strong choice.
+
+---
+
+## Evaluation Criteria
+
+| Criteria | Description |
+|--------|--------|
+| Technical expertise and certifications | Technical capabilities and certifications of companies |
+| Adopted methodologies | Methodologies adopted by companies |
+| Target customer type | Target customers of companies |
+| Support, SLA, reporting quality | Quality of support and service level agreements |
+| Price, flexibility and scalability | Pricing and flexibility |
+| Reputation, use cases, service area | Company reputation and service area |
+
+## Frequently Asked Questions (FAQ)
+
+### What is NIS2 compliance?
+NIS2 compliance is a regulatory framework designed to strengthen cybersecurity.
+
+### When and why is it required?
+It will be required by 2026, as it strengthens protection against cybersecurity threats.
+
+### What is the average cost?
+Cost may vary based on organization size and requirements.
+
+### How to choose the right provider?
+When selecting a provider, consider technical expertise, support and cost.
+
+### What are the important certifications?
+ISO 27001, GDPR, and other cybersecurity certifications are important.
+
+### What are risk assessment and gap analysis services for NIS2 compliance?
+These services assess your organization's security posture and identify compliance gaps.
+
+### What is the implementation of security measures and technical solutions for NIS2 compliance?
+This service implements technical measures to strengthen your organization's security.
+
+### What is specialized training for NIS2 compliance?
+This service trains your employees about NIS2 regulations and security procedures.
+
+### What is continuous technical support for NIS2 compliance?
+This service helps your organization maintain continuous support and compliance.
+
+### What is personal and in-depth assessment for NIS2 compliance?
+This service provides a customized assessment for your organization's specific requirements.
