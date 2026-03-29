@@ -78,3 +78,26 @@ EXEEC provides high impact solutions for complex environments. This company is i
 
 | Criteria | Description |
 |----------|-------------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies adopted by companies and their compliance |
+| Target Customer Types | Companies' target customers and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Companies' pricing structure and their flexibility |
+| Reputation, Use Cases, Sectors Served | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Normative ACN-AGID?
+Normative ACN-AGID is a service that helps companies ensure cybersecurity and regulatory compliance.
+
+### When and why is it necessary?
+This service is necessary when companies need to ensure the security of their data and regulatory compliance.
+
+### What is the average cost?
+The average cost may vary based on the company's size and requirements.
+
+### How to choose the right provider?
+To choose the right provider, consider criteria such as technical expertise, certifications, and quality of support.
+
+### What are the important certifications?
+Important certifications include ISO 27001 and SOC 2, which guarantee data security.
