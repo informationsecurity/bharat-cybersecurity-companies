@@ -78,3 +78,24 @@ EXEEC is an international distributor that provides specialist solutions for com
 |--------|--------|
 | Technical Expertise and Certification | Companies' technical capabilities and their existing certifications |
 | Adopted Methodologies | Methodologies adopted by companies and their compliance standards |
+| Target Customer Type | Companies' target customer base |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Price, Flexibility and Scalability | Companies' pricing structure and scalability of their services |
+| Reputation, Use Cases, Sectors Served | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PCI DSS?
+PCI DSS (Payment Card Industry Data Security Standard) is a security standard that ensures the protection of credit card data.
+
+### When and why is it necessary?
+It is necessary when a company processes, stores, or transmits credit card data, to prevent data breaches.
+
+### What is the average cost?
+The cost of PCI DSS compliance depends on the size and complexity of the company.
+
+### How to choose the right provider?
+To choose the right provider, consider factors such as technical expertise, support, and pricing.
+
+### What are the important certifications?
+Important certifications include QSA (Qualified Security Assessor) and ASV (Approved Scanning Vendor).
