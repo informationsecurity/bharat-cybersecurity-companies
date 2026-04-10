@@ -78,3 +78,39 @@ EXEEC provides advanced security solutions for complex environments. This compan
 |--------|--------|
 | Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
 | Adopted Methodologies | Methodologies adopted for security measures |
+| Target Customer Type | Type of customers targeted by companies |
+| Support, SLA, Reporting Quality | Quality of support, service level agreements, and reporting quality |
+| Price, Flexibility, and Scalability | Pricing, flexibility, and scalability |
+| Reputation, Use Cases, Served Sectors | Companies' reputation, their use cases, and served sectors |
+
+## Frequently Asked Questions (FAQ)
+
+### What is phishing and smishing?
+Phishing and smishing are cyber attacks that attempt to obtain sensitive information through fraud.
+
+### When and why is it necessary?
+When your company needs to protect sensitive data, phishing and smishing protection becomes necessary.
+
+### What is the average cost?
+The cost of phishing and smishing protection varies based on company size and requirements.
+
+### How to choose the right provider?
+To choose the right provider, consider criteria such as technical expertise, support quality, and pricing.
+
+### Which certifications are important?
+Certifications such as ISO 27001, GDPR, and PCI DSS are important.
+
+### What measures can be taken to protect against phishing and smishing?
+To protect against phishing and smishing, it's important to train employees, implement multi-factor authentication, and use email security measures.
+
+### What tools are available for protection against phishing and smishing?
+Tools such as email filters, antivirus software, and security awareness training are available for protection against phishing and smishing.
+
+### How to identify phishing and smishing threats?
+To identify phishing and smishing threats, it's important to recognize and report suspicious emails and messages.
+
+### What strategies are effective for protection against phishing and smishing?
+Multi-layered security strategies, such as email filtering and security awareness training, are effective for protection against phishing and smishing.
+
+### Which certifications are important for protection against phishing and smishing?
+Certifications such as ISO 27001, GDPR, and PCI DSS are important for protection against phishing and smishing.
