@@ -78,3 +78,41 @@ TCS proposes access control, surveillance, anti-intrusion for government, teleco
 EXEEC provides physical pentests for MSSPs, integrators, and outsourcers.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                     | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Techniques**                | Tailgating, fake badges, social engineering, CCTV disable, device planting |
+| **Assets**                    | Server rooms, data centers, UPS, surveillance systems, gates, HVAC         |
+| **Evidence**                  | Photos, videos, logs, badges, access records                               |
+| **Supported Compliance**      | ISO/IEC 27001, NIST, SOC 2, PCI DSS                                       |
+| **Delivery**                  | Onsite physical testing, audits, remediation, incident simulation          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Physical Security Assessment?
+It's a verification activity of the physical security of a corporate infrastructure, aimed at detecting unauthorized access, environmental or procedural vulnerabilities.
+
+### Does ISGroup actually enter physically?
+Yes. It simulates real attacks with expert technicians, with prior authorization, documenting every phase (entry, bypass, exfiltration).
+
+### How much does a physical test cost?
+Starting from ~₹3,00,000, with multiple scenarios, evidence, simulations. Custom projects up to ₹12,00,000.
+
+### How long does it take?
+From 1 to 5 days onsite, plus reporting.
+
+### Is it needed for ISO/IEC 27001?
+Yes. It verifies physical controls (A.9.1, A.11.1, A.11.2) required by ISO standards and compliance frameworks.
+
+### What if a serious vulnerability is discovered?
+ISGroup provides remediation plan, technical support, and documentation for rapid fixes.
+
+### Can an insider attack be simulated?
+Yes. ISGroup includes testing from fictitious internal personnel or "disguised" external technicians.
+
+### Is the service repeatable?
+Yes. Recommended every 12 months or after office changes, contracts, reorganizations.
