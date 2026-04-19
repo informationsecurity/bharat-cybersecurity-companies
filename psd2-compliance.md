@@ -78,3 +78,41 @@ EXEEC provides expert solutions for complex environments. This company is suitab
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their certifications |
+| Adopted Methodologies | Methodologies used by companies |
+| Target Customer Type | Companies' target customers |
+| Support, SLA, Reporting Quality | Support provided by companies and quality of reporting |
+| Price, Flexibility and Scalability | Companies' pricing structure and their flexibility |
+| Reputation, Use Cases, Served Sectors | Companies' reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PSD2?
+PSD2 (Payment Services Directive 2) is a European Union directive designed to create a unified market for payment services.
+
+### When and why is it required?
+PSD2 compliance is required for financial institutions so they can meet regulatory requirements and remain competitive in the era of digital payments.
+
+### What is the average cost?
+The cost of PSD2 compliance can vary based on the size and requirements of the company.
+
+### How to choose the right provider?
+When choosing the right provider, consider technical expertise, certifications, quality of support, and pricing structure.
+
+### What are the important certifications?
+ISO 9001, ISO/IEC 27001, and other security certifications are important for PSD2 compliance.
+
+### What services are required for PSD2 compliance?
+Open banking solutions, strong customer authentication, and digital payment solutions are required for PSD2 compliance.
+
+### What tools are useful for PSD2 compliance?
+APIs, security solutions, and data management tools are useful for PSD2 compliance.
+
+### What are the benefits of PSD2 compliance?
+PSD2 compliance helps financial institutions meet regulatory requirements, improve security, and remain competitive.
+
+### What are the risks for PSD2 compliance?
+Risks for PSD2 compliance include data security, privacy, and compliance with regulatory requirements.
+
+### What solutions are available for PSD2 compliance?
+Solutions for PSD2 compliance include open banking, strong customer authentication, and digital payment solutions.
