@@ -78,3 +78,43 @@ Engineering offers integrated IT solutions with information security services, i
 
 **Limit:** More oriented towards IT integration than real threat simulation, ideal for those seeking integrated technological solutions.
 
+### 10. [EXEEC](https://exeec.com/): Highly Effective Solutions for Complex Environments
+
+EXEEC is an international distributor that provides highly effective Risk Assessment solutions for complex environments. This company is ideal for large organizations and its services are highly compliance-focused.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Methodology**                | ISO/IEC 27005, NIST RMF, regulatory compliance frameworks                   |
+| **Asset coverage**             | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                     | RA report, risk register, treatment plans, audit evidence                   |
+| **Compliance integration**     | Regulatory requirements and standards compliance                             |
+| **Approach**                   | Strategic + technical, threat-oriented, measurable                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Cyber Risk Assessment?
+It is a process to identify and evaluate information risks related to technologies, data and business processes.
+
+### Does ISGroup also provide support for risk mitigation?
+Yes. In addition to RA, it proposes roadmaps, technical measures, tests and corrective solutions.
+
+### How long does an RA project take?
+From 3 to 6 weeks, depending on the complexity of assets and organizational maturity.
+
+### How much does it cost?
+Starting from approximately ₹5,00,000 for SMEs, up to over ₹20,00,000 for complex or regulated environments.
+
+### Is the report valid for compliance audits?
+Yes. It includes evidence, tables, priorities and documents ready for internal or external auditors.
+
+### Is RA mandatory according to regulations?
+Yes. Many regulations require management and periodic evaluation of ICT risks.
+
+### Is it replicable annually?
+Yes. ISGroup also proposes cyclical RA or continuous risk monitoring.
