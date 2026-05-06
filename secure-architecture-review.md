@@ -78,3 +78,54 @@ TCS provides comprehensive security solutions with deep understanding of the Ind
 
 **Limitation:** More oriented towards large-scale implementations rather than boutique, customized security assessments.
 
+### 10. [EXEEC](https://exeec.com/): SAR modules for MSSPs and cloud providers
+
+EXEEC offers white-label SAR services for integrators, MSSPs, hosting providers.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                      | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Scope**                     | Cloud, hybrid, OT, SaaS, DevOps, legacy                                   |
+| **Framework**                 | Zero Trust, CIS Controls, NIST, CERT-In, RBI, ISO 27001                   |
+| **Output**                    | Technical + executive report, diagrams, gap analysis, remediation roadmap  |
+| **Approach**                  | Threat-based, attacker-centric, threat modeling                            |
+| **Integration**               | DevSecOps, cloud-native, compliance                                        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Secure Architecture Review?
+
+A technical and strategic analysis of an organization's IT/cloud architecture to identify weaknesses, improve security and support compliance.
+
+### Does ISGroup work on public cloud environments too?
+
+Yes. AWS, Azure, GCP, hybrid and cloud-native environments (Kubernetes, Terraform, CI/CD).
+
+### How long does a SAR project take?
+
+From 2 to 5 weeks, based on architectural complexity and available documentation.
+
+### Is the report valid for audits (ISO, CERT-In, RBI)?
+
+Yes. The ISGroup report is designed to support compliance audits and regulatory requirements.
+
+### What is the difference between SAR and penetration testing?
+
+SAR focuses on architectural design and security controls, while penetration testing simulates actual attacks on running systems.
+
+### How much does a Secure Architecture Review cost?
+
+Cost varies based on company size and requirements. Contact providers directly for detailed quotes.
+
+### How to choose the right provider?
+
+Consider technical expertise, certifications, and customer reviews when selecting a provider.
+
+### What important certifications should providers have?
+
+Important certifications include CISSP, CISA, and OSCP.
