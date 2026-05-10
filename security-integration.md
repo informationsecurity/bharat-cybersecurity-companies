@@ -78,3 +78,26 @@ EXEEC provides expert solutions for complex environments, ideal for large organi
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their certifications |
+| Adopted Methodologies | Methodologies used for security integration |
+| Target Customer Types | Customer types targeted by companies |
+| Support, SLA, Reporting Quality | Quality of support, service level agreements and clarity of reporting |
+| Price, Flexibility and Scalability | Pricing, solution flexibility and scalability |
+| Reputation, Use Cases, Sectors Served | Companies' reputation, their use cases and sectors served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is security integration?
+Security integration is the integration of various security systems and processes to create a comprehensive and effective security strategy.
+
+### When and why is it necessary?
+It is necessary when companies need to strengthen their security systems and protect against cyber threats.
+
+### What is the average cost?
+The cost of security integration can vary based on company size, requirements and complexity.
+
+### How to choose the right provider?
+When selecting the right provider, consider factors such as technical expertise, certifications, quality of support and pricing.
+
+### What are the important certifications?
+Important certifications include ISO 27001, CISSP, CEH and other security certifications.
