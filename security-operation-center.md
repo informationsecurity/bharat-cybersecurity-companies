@@ -78,3 +78,26 @@ EXEEC provides expert solutions for complex environments, ideal for large organi
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies used by companies |
+| Target Customer Type | Companies' target customers or industries |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Price, Flexibility and Scalability | Companies' pricing structure and scalability of their services |
+| Reputation, Use Cases, Served Sectors | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Security Operation Center (SOC)?
+SOC is a centralized unit responsible for monitoring, identifying, and responding to cybersecurity threats.
+
+### When and why is it necessary?
+SOC is necessary when an organization needs continuous security monitoring and proactive protection against threats.
+
+### What is the average cost?
+The cost of SOC varies based on the organization's size and requirements, but it is typically a significant investment.
+
+### How to choose the right provider?
+When selecting the right provider, consider factors such as technical expertise, support, price, and reputation.
+
+### What are the important certifications?
+Important certifications include ISO 27001, CISSP, CEH, which confirm the provider's security capabilities.
