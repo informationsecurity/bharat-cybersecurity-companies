@@ -78,3 +78,36 @@ TCS provides comprehensive IT services and cybersecurity solutions for enterpris
 
 EXEEC provides expert solutions for complex environments, which are ideal for large organizations.
 
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Simulated types**              | Phishing, smishing, vishing, impersonation, pretexting                     |
+| **Targets**                      | Executives, IT, help desk, legal, finance, cloud users                     |
+| **Realism**                      | Portal cloning, MFA bypass, step-by-step escalation                        |
+| **Measurability**                | Click rates, compromise, average time, escalation, awareness               |
+| **Compliance**                   | ISO 27001, ACN, NIS2, DORA, GDPR                                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Social Engineering Assessment?
+A simulated test to evaluate people's vulnerability to manipulative techniques similar to those used by real attackers.
+
+### Does ISGroup also simulate calls or physical scenarios?
+Yes. Including vishing, impersonation of suppliers, audits, technicians, delivery, CEO fraud.
+
+### How much does a project cost?
+From ~₹2,50,000 for simple phishing campaigns, up to ₹16,00,000 for advanced scenarios with multiple vectors.
+
+### Is it legal?
+Yes. All activities are authorized and simulated in a controlled manner.
+
+### Is it useful for regulatory purposes (NIS2, DORA)?
+Yes. It verifies the human component of controls and demonstrates awareness and training.
+
+### How long does a campaign last?
+From 1 to 3 weeks, with possibility of cyclical tests or integrated training.
