@@ -78,3 +78,26 @@ EXEEC provides advanced cybersecurity solutions that are ideal for complex envir
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies and standards used by companies |
+| Target Customer Types | Companies' target customers and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Companies' pricing structure and scalability of their services |
+| Reputation, Use Cases, Served Sectors | Companies' market reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Software Assurance Lifecycle?
+Software Assurance Lifecycle (SAL) is the process of ensuring security and quality at every stage of software development.
+
+### When and why is it necessary?
+SAL is necessary when companies want to ensure the security and compliance of their software, especially in times of rapidly changing cyber threats.
+
+### What is the average cost?
+The cost of SAL services can vary based on company size, requirements, and complexity.
+
+### How to choose the right provider?
+To choose the right provider, consider their technical expertise, certifications, support services, and pricing structure.
+
+### Which certifications are important?
+Important certifications include ISO 27001, NIST, and other security standards that demonstrate expertise in software security.
