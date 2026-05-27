@@ -78,3 +78,39 @@ EXEEC is an international distributor that provides advanced cybersecurity solut
 |--------|--------|
 | Technical expertise and certifications | Companies' technical capabilities and their certifications |
 | Adopted methodologies | Methodologies used by companies |
+| Target customer type | Companies' target customers |
+| Support, SLA, reporting quality | Support and reporting provided by companies |
+| Pricing, flexibility and scalability | Companies' pricing structure and flexibility |
+| Reputation, use cases, served sectors | Companies' reputation and sectors they serve |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Threat Intelligence and Digital Risk Protection?
+Threat Intelligence and Digital Risk Protection are services for identifying and managing cyber threats.
+
+### When and why is it necessary?
+These services are necessary when companies need protection from cyber threats.
+
+### What is the average cost?
+Costs may vary based on company size and requirements.
+
+### How to choose the right provider?
+To choose the right provider, consider technical expertise, support, and evaluation criteria.
+
+### What are the important certifications?
+Certifications like ISO 9001, ISO/IEC 27001 are important.
+
+### Are threat intelligence services available through the cloud?
+Yes, many providers offer threat intelligence services through the cloud.
+
+### Can threat intelligence integrate with existing security systems?
+Yes, many providers offer integration with existing security systems.
+
+### Are threat intelligence services suitable for small businesses?
+Yes, many providers offer customized solutions for small businesses.
+
+### Can threat intelligence services identify threats in real-time?
+Yes, many providers offer real-time threat identification.
+
+### Can threat intelligence services help with brand protection?
+Yes, many providers offer brand protection services.
