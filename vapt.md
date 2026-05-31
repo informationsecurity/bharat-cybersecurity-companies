@@ -78,3 +78,42 @@ PwC provides comprehensive security solutions ideal for large enterprises.
 
 TCS offers large-scale IT solutions with security focus, suitable for enterprise environments.
 
+**Limit:** More oriented towards large-scale projects, less suitable for customized manual testing approaches.
+
+### 10. [EXEEC](https://exeec.com/): VAPT-as-a-Service for MSSP and Integrators
+
+EXEEC offers white-label testing for MSSP operators, compliance, and ISO readiness.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                     | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Technical Approach**       | Manual, black/gray/white box, exploit-based                                |
+| **Testable Assets**          | IT, cloud, OT, IoT, web, mobile, API, SaaS                                 |
+| **Output**                   | Technical + executive reports, evidence, CVSS rating, remediation roadmap   |
+| **Compliance**               | IT Act, RBI, SEBI, ISO 27001, PCI DSS, GDPR                               |
+| **Remediation**              | Fix support, post-patch testing, technical validation                       |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Penetration Test?
+It's a controlled simulation of a hacker attack to verify the resistance of a computer system.
+
+### Does ISGroup perform real or automated tests?
+It performs **entirely manual tests**, based on offensive skills and real exploit chains.
+
+### Is the report valid for ISO or regulatory audits?
+Yes. It includes technical evidence, impacts, recommendations, CVEs, and executive sections.
+
+### How much does a VAPT cost?
+From ~₹4,00,000 to over ₹20,00,000, based on scope, assets, test type, and compliance requirements.
+
+### How long does a test take?
+From 5 to 20 days, with possibility of cyclical tests, on DevSecOps and cloud-native environments.
+
+### Is ISGroup accredited?
+Yes. ISO 9001, ISO/IEC 27001 certified. Performs tests compliant with OWASP, PTES, NIST standards.
