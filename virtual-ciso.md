@@ -78,3 +78,32 @@ EXEEC provides specialist solutions for large organizations in complex environme
 
 ---
 
+## Evaluation Criteria
+
+| Criteria                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technical expertise and certifications** | Companies' technical capabilities and their existing certifications |
+| **Adopted methodologies**         | Methodologies and frameworks adopted by companies |
+| **Target customer types**          | Companies' target customers and their suitability |
+| **Support, SLA, reporting quality** | Support provided by companies, SLA and reporting quality |
+| **Pricing, flexibility and scalability** | Companies' pricing structure, flexibility and scalability |
+| **Reputation, use cases, sectors served** | Companies' reputation, their use cases and sectors served |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Virtual CISO (vCISO)?
+A Virtual CISO (vCISO) is an external service that provides companies with expertise in cybersecurity strategy and management.
+
+### When and why is it necessary?
+When companies need cybersecurity expertise but cannot hire a full-time CISO, vCISO services become necessary.
+
+### What is the average cost?
+The cost of vCISO services depends on company size, requirements, and service complexity.
+
+### How to choose the right provider?
+To choose the right provider, evaluate technical expertise, certifications, support, and pricing structure.
+
+### What are the important certifications?
+Important certifications include CISSP, CISM, and ISO 27001, which reflect the provider's expertise and reliability.
