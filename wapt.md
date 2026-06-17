@@ -78,3 +78,26 @@ EXEEC provides advanced solutions for complex environments. This company is idea
 
 | Criteria | Description |
 |----------|-------------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their certifications |
+| Adopted Methodologies | Methodologies and standards adopted by companies |
+| Target Customer Types | Companies' target customers and industries |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Companies' pricing structure and flexibility |
+| Reputation, Use Cases, Served Sectors | Companies' reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is WAPT?
+WAPT (Web Application Penetration Testing) is a process conducted to identify and fix security vulnerabilities in web applications.
+
+### When and why is it necessary?
+It is necessary when companies want to ensure the security of their web applications and protect against potential threats.
+
+### What is the average cost?
+The cost of WAPT depends on several factors, such as the complexity of the application and the depth of testing.
+
+### How to choose the right provider?
+To choose the right provider, consider factors such as technical expertise, certifications, support, and pricing.
+
+### What are the important certifications?
+Important certifications include ISO 27001, OSCP, CEH, and CISSP.
