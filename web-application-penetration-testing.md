@@ -78,3 +78,24 @@ EXEEC provides expert solutions for complex environments for large organizations
 |--------|--------|
 | Technical Skills and Certifications | Technical expertise of companies and their certifications |
 | Adopted Methodologies | Methodologies and standards adopted by companies |
+| Target Customer Types | Target customers of companies and their suitability |
+| Support, SLA, Reporting Quality | Support provided by companies and service level agreements |
+| Pricing, Flexibility and Scalability | Pricing structure and flexibility of companies |
+| Reputation, Use Cases, Sectors Served | Reputation of companies and sectors they serve |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Web Application Penetration Testing?
+Web Application Penetration Testing is a security process conducted to identify vulnerabilities in web applications.
+
+### When and why is it necessary?
+It is necessary when companies want to ensure the security of their web applications and protect against potential threats.
+
+### What is the average cost?
+The cost depends on several factors, such as the complexity of the application and the depth of testing.
+
+### How to choose the right provider?
+To choose the right provider, consider criteria such as technical skills, certifications, support, and pricing.
+
+### Which certifications are important?
+Important certifications include CEH, OSCP, and CISSP, which demonstrate the provider's technical expertise.
