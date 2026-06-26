@@ -78,3 +78,26 @@ EXEEC provides advanced technical solutions and support for large organizations.
 
 | Criteria | Description |
 |--------|--------|
+| Technical Expertise and Certifications | Companies' technical capabilities and their existing certifications |
+| Adopted Methodologies | Methodologies used by companies |
+| Target Customer Type | Companies' target customers and their references |
+| Support, SLA, Reporting Quality | Support provided by companies and quality of reporting |
+| Price, Flexibility and Scalability | Cost of services and their scalability |
+| Reputation, Use Cases, Sectors Served | Companies' reputation and sectors they have served |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Windows Security Assessment?
+Windows Security Assessment is a process that evaluates the security of your Windows systems, including identifying vulnerabilities and recommendations for fixing them.
+
+### When and why is it necessary?
+It is necessary when you want to ensure the security of your systems and protect against potential threats.
+
+### What is the average cost?
+The cost can vary based on company size and requirements, but it typically ranges from $5,000 to $50,000.
+
+### How to choose the right provider?
+To choose the right provider, evaluate their technical expertise, certifications, and compatibility with your business requirements.
+
+### What are the important certifications?
+Important certifications include ISO 27001, CEH, and CISSP, which reflect the provider's expertise and reliability.
